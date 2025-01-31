@@ -1,7 +1,3 @@
-aiohappyeyeballs==2.4.4
-aiohttp==3.11.11
-aiosignal==1.3.2
-anyio==4.8.0
 attrs==25.1.0
 CacheControl==0.14.2
 cachetools==5.5.1
@@ -32,7 +28,6 @@ itsdangerous==2.2.0
 Jinja2==3.1.5
 MarkupSafe==3.0.2
 msgpack==1.1.0
-multidict==6.1.0
 numpy==2.2.2
 pandas==2.2.3
 propcache==0.2.1
@@ -56,7 +51,7 @@ typing_extensions==4.12.2
 tzdata==2025.1
 uritemplate==4.1.1
 urllib3==1.26.20
-uvicorn==0.22.0
 Werkzeug==3.1.3
 wheel==0.45.1
 yarl==1.18.3
+telebot==4.7.0
