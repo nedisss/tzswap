@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "builds": [
+    {
+      "src": "webhook.py",
+      "use": "@vercel/python"
+    }
+  ],
+  "routes": [
+    {
+      "src": "/api/(.*)",
+      "dest": "webhook.py"
+    },
+    {
+      "src": "/",
+      "status": 308,
+      "headers": { "Location": "https://vercel.com/dashboard" }
+    }
+  ]
+}
