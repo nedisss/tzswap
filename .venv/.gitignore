@@ -1,0 +1,10 @@
+# Ignoruoti .env failą
+.env
+
+# Ignoruoti virtualią aplinką (jei naudojate ją)
+venv/
+
+# Ignoruoti kitus nereikalingus failus ir aplankus (pvz., kompiliuotus bytecode failus)
+__pycache__/
+*.pyc
+*.pyo
