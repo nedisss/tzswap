@@ -1,7 +1,16 @@
+<<<<<<< HEAD
 aiohappyeyeballs==2.4.4
 aiosignal==1.3.2
 anyio==4.8.0
 APScheduler==3.11.0
+=======
+aiohttp==3.7.4
+aiohappyeyeballs==2.4.4
+aiosignal==1.3.2
+annotated-types==0.7.0
+anyio==4.8.0
+async-timeout==3.0.1
+>>>>>>> de83eb5 (Pirmas įkėlimas)
 attrs==24.3.0
 bitarray==3.0.0
 blinker==1.9.0
@@ -9,14 +18,20 @@ CacheControl==0.14.2
 cachetools==5.5.1
 certifi==2024.12.14
 cffi==1.17.1
+<<<<<<< HEAD
 charset-normalizer==3.4.1
 ckzg==2.0.1
+=======
+chardet==3.0.4
+charset-normalizer==3.4.1
+>>>>>>> de83eb5 (Pirmas įkėlimas)
 click==8.1.8
 colorama==0.4.6
 colorlog==6.9.0
 cryptography==44.0.0
 cytoolz==1.0.1
 distlib==0.3.9
+<<<<<<< HEAD
 eth-account==0.13.4
 eth-hash==0.7.1
 eth-keyfile==0.8.1
@@ -28,6 +43,9 @@ eth_abi==5.2.0
 filelock==3.17.0
 firebase-admin==6.6.0
 Flask==3.1.0
+=======
+firebase-admin==6.6.0
+>>>>>>> de83eb5 (Pirmas įkėlimas)
 frozenlist==1.5.0
 google-api-core==2.24.1
 google-api-python-client==2.160.0
@@ -39,10 +57,19 @@ google-cloud-firestore==2.20.0
 google-cloud-storage==3.0.0
 google-crc32c==1.6.0
 google-resumable-media==2.7.2
+<<<<<<< HEAD
 googleapis-common-protos==1.66.0
 hexbytes==1.3.0
 httpcore==1.0.7
 httpx==0.28.1
+=======
+grpcio==1.70.0
+grpcio-status==1.70.0
+h11==0.14.0
+hexbytes==1.3.0
+httpx==0.28.1
+idna==3.10
+>>>>>>> de83eb5 (Pirmas įkėlimas)
 itsdangerous==2.2.0
 Jinja2==3.1.5
 MarkupSafe==3.0.2
@@ -52,6 +79,10 @@ parsimonious==0.10.0
 platformdirs==4.3.6
 propcache==0.2.1
 proto-plus==1.26.0
+<<<<<<< HEAD
+=======
+protobuf==5.29.3
+>>>>>>> de83eb5 (Pirmas įkėlimas)
 pyasn1==0.6.1
 pyasn1_modules==0.4.1
 pycparser==2.22
@@ -60,15 +91,25 @@ pydantic==2.10.5
 pydantic_core==2.27.2
 PyJWT==2.10.1
 pyparsing==3.2.1
+<<<<<<< HEAD
 python-dotenv==1.0.1
 python-telegram-bot==21.10
 pyunormalize==16.0.0
+=======
+pyTelegramBotAPI==4.26.0
+python-dotenv==1.0.1
+python-telegram-bot==21.10
+>>>>>>> de83eb5 (Pirmas įkėlimas)
 regex==2024.11.6
 requests==2.32.3
 rlp==4.0.1
 rsa==4.9
 setuptools==75.8.0
 sniffio==1.3.1
+<<<<<<< HEAD
+=======
+toolz==1.0.0
+>>>>>>> de83eb5 (Pirmas įkėlimas)
 types-requests==2.32.0.20241016
 typing_extensions==4.12.2
 tzdata==2025.1
